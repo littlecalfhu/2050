@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/2050/static/media/logo.5a953174.svg"
   },
   {
-    "revision": "02e101dec9131655b020",
-    "url": "/2050/static/js/runtime~main.02e101de.js"
+    "revision": "1374501007006de7a2bc",
+    "url": "/2050/static/js/runtime~main.13745010.js"
   },
   {
     "revision": "b2a8973c5299ad8fc66a",
